@@ -1,2 +1,2 @@
 # MyFirstproj
-Sample project of a web application
+This is my first Repository 
